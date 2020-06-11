@@ -1,0 +1,18 @@
+Resultados:
+    1.- Tipo de triángulo para cada quinteto de datos.
+    2.- Área de cada triángulo escaleno.
+    3.- Número de triángulos isósceles.
+    4.- Porcentaje de triángulos equiláteros.
+    5.- Área total del terreno procesado.
+Datos de entrada:
+    El valor de los lados de cada triángulo
+    La altura de cada triángulo.
+    La base de cada triángulo.
+Cálculos necesarios para llegar a los resultados:
+    Crear un ciclo para permitir ingresar los datos de los 10 terrenos triangulares.
+    Crear ciclos para asegurarse que los datos ingresados sean solo números.
+    1.- Comparar los lados de cada triángulo para determinar que tipo de triángulo es.
+    2.- Utilizar la fórmula (base * altura) / 2 para calcular el área.
+    3.- Crear un contador que aumente de 1 cada vez que se registre un triángulo isósceles.
+    4.- Utilizar la fórmula porcentajeEquilateros = (equilateros / 2) * 100.
+    5.- Crear variable que guarde la suma del área de todos los triángulos.

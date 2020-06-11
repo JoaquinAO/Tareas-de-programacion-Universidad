@@ -1,0 +1,14 @@
+Resultados
+    El valor más pequeño de la muestra de datos.
+    La suma de todos los números impares.
+    Los dos valores más grandes de la muestra de datos.
+
+Datos que el programa podrá pedir
+    Números enteros positivos
+
+Cálculos necesarios para llegar a los resultados
+    Validación de datos (solo números enteros positivos)
+    Crear condición para encontrar el número mayor
+    Crear condición para encontrar el segundo número mayor
+    Crear condición para encontrar el número menor
+    Crear condición que encuentre números impares y los sume

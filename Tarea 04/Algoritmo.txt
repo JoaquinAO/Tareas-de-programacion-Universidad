@@ -1,0 +1,33 @@
+-Pedir datos de la ecuación al usuario (a, b, c)
+-Son 3 los posibles casos de soluciones
+    Donde hay 2 soluciones reales distintas
+    Donde hay 2 soluciones reales iguales
+    Donde hay 2 soluciones complejas conjugadas
+-Encontrar desarrollo para cada caso
+-Operar con los datos entregados por el usuario
+Mostrar soluciones de la ecuación
+
+
+
+
+
+
+
+
+
+
+
+Resultado final
+    Indicar que tipo de soluciones tiene la ecuación
+    Soluciones de la ecuación cuadrática
+    Encontrar la manera de calcular números complejos
+    Identificar los posibles casos de la ecuación
+Calcular
+Fórmula de la ecuación cuadrática
+Preguntar datos de la ecuación
+
+
+
+
+
+probar partes del codigo por separado
