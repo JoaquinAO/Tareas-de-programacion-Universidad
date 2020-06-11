@@ -1,9 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 28 09:31:40 2020
-
-@author: joaquin
-"""
+#Desarrolle un algoritmo en Python que a partir de la lectura de dos datos numéricos enteros
+#(largo y ancho), determine e informe si corresponden a un cuadrado o un rectángulo. 
+#Incorpore mensajes para orientar al usuario del programa. 
 
 
 print("Programa para saber si tengo un cuadrado o un rectángulo\n")
