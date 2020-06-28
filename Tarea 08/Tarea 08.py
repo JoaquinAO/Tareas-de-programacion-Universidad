@@ -1,4 +1,4 @@
-archivo = open("C:\\Users\\joaquin\\Desktop\\U\\Algoritmos y programación\\Tareas\\Tarea 08\\FilaBanco.txt", "r")
+archivo = open("FilaBanco.txt", "r")
 temperatura2 = None 
 temperatura3 = None
 for linea in archivo:
