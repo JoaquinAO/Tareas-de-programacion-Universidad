@@ -7,7 +7,7 @@ for linea in archivo:
     #Condición para mostrar en pantalla quién debe ser notificado como presunto contagiado
     if temperatura2 != None and temperatura3 != None:
         if temperatura3 > 37.5 and temperatura > 37.5 and temperatura2 <= 37.5:
-            print(nombre, apellido)
+            print(apellido, nombre)
     temperatura3 = temperatura2 
     temperatura2 = temperatura 
     nombre = datos[0]
