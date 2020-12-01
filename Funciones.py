@@ -1,1 +1,0 @@
-#Archivo con funciones para el ramo Algoritmos y programación
